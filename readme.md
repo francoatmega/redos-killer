@@ -1,0 +1,1 @@
+This regex lead to problems using re2 wrapper /A(B|C+)+D/
